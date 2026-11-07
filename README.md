@@ -67,6 +67,19 @@ zalodesk list-conversations --account-id 123 | jq -r '.conversations[].name'
 The same commands are a remote MCP server at `https://app.zalodesk.com/api/mcp` for Claude,
 ChatGPT, Cursor and Hermes Agent ([zalodesk-mcp](https://github.com/zalodesk/zalodesk-mcp)).
 
+## ZaloDesk
+
+[ZaloDesk](https://zalodesk.com) puts a shop's personal Zalo and Zalo OA accounts in one inbox
+for the whole team, and each person sees only the Zalo and chats they are given.
+
+- [Phần mềm quản lý Zalo cá nhân cho đội sale](https://zalodesk.com/phan-mem-quan-ly-zalo-ca-nhan)
+- [Zalo CRM cho Zalo cá nhân](https://zalodesk.com/zalo-crm)
+- [Chatbot Zalo cá nhân](https://zalodesk.com/chatbot-zalo-ca-nhan)
+- [Chợ tự động hoá cho Zalo](https://zalodesk.com/tu-dong-hoa)
+- [Hướng dẫn sử dụng](https://zalodesk.com/huong-dan)
+- [Bảng giá](https://zalodesk.com/bang-gia)
+- [Tải ZaloDesk](https://zalodesk.com/download)
+
 ## Sign-in
 
 Tokens are kept in `~/.config/zalodesk/auth.json` (readable only by you). `zalodesk logout`

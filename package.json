@@ -1,6 +1,6 @@
 {
   "name": "zalodesk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ZaloDesk CLI: read and send Zalo and Zalo OA messages, manage your team's access (Phân quyền) and chat routing from the terminal.",
   "keywords": [
     "zalo",
