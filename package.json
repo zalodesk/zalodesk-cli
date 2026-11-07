@@ -1,0 +1,41 @@
+{
+  "name": "zalodesk",
+  "version": "0.1.0",
+  "description": "ZaloDesk CLI: read and send Zalo and Zalo OA messages, manage your team's access (Phân quyền) and chat routing from the terminal.",
+  "keywords": [
+    "zalo",
+    "zalo-oa",
+    "zalodesk",
+    "zalo-api",
+    "cli",
+    "shared-inbox",
+    "inbox",
+    "crm",
+    "chat",
+    "messaging",
+    "customer-support",
+    "helpdesk",
+    "mcp",
+    "vietnam"
+  ],
+  "homepage": "https://zalodesk.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalodesk/zalodesk-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zalodesk/zalodesk-cli/issues"
+  },
+  "license": "MIT",
+  "author": "ZaloDesk (https://zalodesk.com)",
+  "type": "module",
+  "bin": {
+    "zalodesk": "bin/zalodesk.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
